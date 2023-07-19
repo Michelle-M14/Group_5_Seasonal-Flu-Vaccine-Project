@@ -34,7 +34,7 @@ The data is composed of approximately 26,000 instances of individual data and va
 
 More data exploration revealed the following:
 
-1. The train feature dataset contains 26707 rows and 36 columns;
+1. The train feature dataset contains 26707 rows and 36 columns
 2. The test dataset contains 26708 rows and 36 columns;
 3. The target dataset contains 26707 rows and 3 columns.
 
